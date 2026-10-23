@@ -1,0 +1,6 @@
+{
+  "name": "SuperSenti",
+  "description": "Gamified AI red teaming experience exploring human-centered bias in LLMs regarding animals and digital minds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
